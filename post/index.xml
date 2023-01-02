@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on FrankLig-A Programmer</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on FrankLig-A Programmer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Jan 2023 19:25:33 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/post/hello/</link>
+      <pubDate>Mon, 02 Jan 2023 19:25:33 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/hello/</guid>
+      <description>Hello 需要把draft改为false才能发布到服务器上</description>
+    </item>
+    
+  </channel>
+</rss>
